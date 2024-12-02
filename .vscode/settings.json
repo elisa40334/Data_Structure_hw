@@ -1,0 +1,22 @@
+{
+    "files.associations": {
+        "iostream": "cpp",
+        "ostream": "cpp",
+        "algorithm": "cpp",
+        "string": "cpp",
+        "istream": "cpp",
+        "ios": "cpp",
+        "iomanip": "cpp",
+        "array": "cpp",
+        "vector": "cpp",
+        "string_view": "cpp",
+        "__config": "cpp",
+        "__nullptr": "cpp",
+        "utility": "cpp",
+        "memory": "cpp",
+        "iosfwd": "cpp",
+        "iterator": "cpp",
+        "chrono": "cpp",
+        "__bit_reference": "cpp"
+    }
+}
